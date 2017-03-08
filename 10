@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    string x,y,z;
+    cout<<"Please enter your Forename:";
+    cin>>x;
+    cout<<endl;
+    cout<<"Please enter your Surename:";
+    cin>>y;
+    cout<<endl;
+    cout<<"Please enter your year of birth:";
+    cin>>z;
+    cout<<endl;
+
+    cout<<x;cout<<' ';
+    cout<<y;cout<<' ';
+    cout<<z;
+    cout<<endl;
+    cout<<"\n";
+    cout<<"Produced by fb.com/ShahimUddin.Saba";
+    return 0;
+}
+
+
