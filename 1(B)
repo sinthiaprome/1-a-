@@ -1,0 +1,28 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    string x,y;
+    cout<<"What is your Name?";
+    cout<<endl;
+    cout<<"Please enter your Name:";
+    cin>>x;
+    cout<<endl;
+    cout<<"Hello!";
+    cout<<endl;
+    cout<<"\n";
+
+    cout<<"What is your Name?";
+    cout<<endl;
+    cout<<"Please enter your Name:";
+    cin>>y;
+    cout<<endl;
+    cout<<"Hello there ";
+    cout<<y;
+    cout<<"!";
+    cout<<endl;
+    cout<<"\n";
+    cout<<"Produced by fb.com/ShahimUddin.Saba";
+    return 0;
+}
+
