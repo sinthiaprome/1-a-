@@ -17,8 +17,7 @@ int main()
     cout<<y;cout<<' ';
     cout<<z;
     cout<<endl;
-    cout<<"\n";
-    cout<<"Produced by fb.com/ShahimUddin.Saba";
+    
     return 0;
 }
 
